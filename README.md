@@ -1,5 +1,5 @@
-Team 7
-1.Floyd Lehman
+Team 7</br>
+1.Floyd Lehman</br>
 2.Floyd Lehman
 
 # SpeelMetJezelf
