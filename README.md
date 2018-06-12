@@ -4,7 +4,16 @@ Team 7</br>
 
 # SpeelMetJezelf
 
-Een leuk spelletje om met jezelf te spelen.
+Speel met jezelf is een leuk competitief spel dat je metjezelf speelt(of met iemand anders).</br>
+In dit spel is het doel om dee hooghste score te halen door te darten.</br>
+Score zo veel mogelijk punten dor op het dartbordt te gooien en win het spel.
+
+<h2>Wat hebben we gebruikt</h2><br></br>
+
+* Leap Motion
+* Unreal 
+* Blueprints
+
 
 # Documentatie:
 
