@@ -18,8 +18,9 @@ Score zo veel mogelijk punten dor op het dartbordt te gooien en win het spel.
 # Documentatie:
 
 <a href="https://docs.google.com/spreadsheets/d/1skij1ruHYZjLoreKRRZMoNlANQSx8ScQmxlBmDIBt3s/edit?usp=sharing">*Logboek</a><br>
-<a href="https://docs.google.com/document/d/14F_5ipyiJEfn82Z_AnuXVSafSGal3RvYmYvSXrwjuKA/edit?usp=sharing">*Documentatie</a>
-<a href="">*Planning</a>
+<a href="https://docs.google.com/document/d/14F_5ipyiJEfn82Z_AnuXVSafSGal3RvYmYvSXrwjuKA/edit?usp=sharing">*Documentatie</a><br>
+<a href="">*Planning</a><br>
+<a href="">*Presentatie</a>
 
 # Portfolio
 
